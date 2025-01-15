@@ -40,10 +40,10 @@ export default function Home() {
         </div>
       </div>
       <div className="fixed bottom-8 left-8">
-        <div className="relative w-24 h-24 animate-spin-slow">
+        <div className="relative animate-spin-slow size-28">
           <div className="absolute inset-0 flex items-center justify-center">
-            <div className="w-20 h-20 rounded-full border-2 border-black flex items-center justify-center">
-              <span className="text-sm font-medium">Hire Me</span>
+            <div className="size-16 rounded-full border-2 border-white bg-black flex justify-center items-center text-center">
+              <span className="text-sm font-medium text-white">Hire Me</span>
             </div>
           </div>
           <svg className="w-full h-full" viewBox="0 0 100 100">
