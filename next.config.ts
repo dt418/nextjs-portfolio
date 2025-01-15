@@ -7,10 +7,6 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'sjc.microlink.io',
       },
-      {
-        protocol: 'https',
-        hostname: '*.vercel.app',
-      },
     ],
   },
 };
